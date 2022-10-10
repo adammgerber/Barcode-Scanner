@@ -1,6 +1,6 @@
 //
 //  ScannerVC.swift
-//  BarcodeScanner
+//  BarcodeScanner App
 //
 //  Created by Adam Gerber on 10/10/22.
 //
