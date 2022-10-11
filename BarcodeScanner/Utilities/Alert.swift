@@ -3,7 +3,7 @@
 //  BarcodeScanner
 //
 //  Created by Adam Gerber on 10/11/22.
-//  :)
+//  :
 
 import SwiftUI
 
